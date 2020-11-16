@@ -1,0 +1,6 @@
+
+
+#Filters out all paths that end with .in, .out or .pyc
+*.in 
+*.out
+*.pyc
